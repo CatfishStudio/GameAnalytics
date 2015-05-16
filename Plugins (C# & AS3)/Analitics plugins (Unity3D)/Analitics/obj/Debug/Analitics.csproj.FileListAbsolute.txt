@@ -1,0 +1,8 @@
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\bin\Debug\Analitics.exe
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\bin\Debug\Analitics.pdb
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\obj\Debug\Analitics.csprojResolveAssemblyReference.cache
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\obj\Debug\Analitics.exe
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\obj\Debug\Analitics.pdb
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\obj\Debug\Analitics.MainForm.resources
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\obj\Debug\Analitics.csproj.GenerateResource.Cache
+C:\Users\Catfish\Desktop\ДИПЛОМ\GameAnalitics\Analitics (Unity3D)\Analitics\bin\Debug\Analitics.exe.config
